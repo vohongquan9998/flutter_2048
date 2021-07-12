@@ -1,6 +1,6 @@
 # flutter_2048_game
 
-A new Flutter project.
+Flutter 2048 game example.
 
 ## Getting Started
 
