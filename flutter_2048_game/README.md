@@ -1,7 +1,8 @@
 
 # flutter_2048_game
 
-![banner2048](https://user-images.githubusercontent.com/71002261/126274900-e87f7bc6-92be-4010-82ec-62911e7026d6.png)
+![banner2048](https://user-images.githubusercontent.com/71002261/127610658-68adbe6f-2ba0-411f-bf47-674dff63334d.png)
+
 
 Flutter 2048 game example.
 
